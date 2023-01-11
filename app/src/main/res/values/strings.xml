@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AtherCodingAssignment</string>
+    <string name="default_date_time">TUESDAY, DECEMBER 26</string>
 </resources>
